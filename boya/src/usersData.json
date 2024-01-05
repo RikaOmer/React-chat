@@ -1,0 +1,30 @@
+{
+    "barel": {
+      "friends":
+      {
+          "avi":{
+            "readed":[
+             {
+              "content":"msg",
+              "sendByUsername":true,
+              "time":"datetime"
+             } 
+            ],
+            "unreaded":[{
+              "content":"msg",
+              "sendByUsername":true,
+              "time":"datetime"
+             }]
+          }
+      },        
+    
+      "attr":{
+        "password": "123",
+        "img": "barel.jpeg",
+        "name": "Barel Heby"
+      },
+      "currentChat":"avi"
+
+    
+  }
+}

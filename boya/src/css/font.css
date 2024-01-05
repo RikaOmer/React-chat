@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "Hind Vadodara regular";
+    src: url('font_folder/HindVadodara-Regular.ttf');
+  }
+  
+*{
+font-family:"Hind Vadodara regular",arial;
+}
+
+@font-face {
+font-family: "Hind Vadodara bold";
+src: url('font_folder/HindVadodara-Bold.ttf');
+}
+
+.bld{
+font-family:"Hind Vadodara bold",arial;
+}

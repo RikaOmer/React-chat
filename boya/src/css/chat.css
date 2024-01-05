@@ -1,0 +1,72 @@
+.image-background{
+  background-image: url("../images/backgrounds/chat_background.jpg")   ; 
+  background-size: cover;
+  background-position: center;
+  background-repeat: repeat;
+}
+.chat-header{
+  background-color: rgb(102, 155, 188);
+}
+
+.fit_content{
+  width: fit-content;
+}
+
+.active_selection{
+  background-color: rgba(102, 155, 188, 0.427);
+  border-radius: 5px;
+}
+.active_selection:hover{
+  background-color: rgba(102, 155, 188, 0.854);
+}
+
+.pers{
+  flex: 1 0 auto;
+}
+
+.wrappr{
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  
+}
+
+.fill{
+  flex: 1 0 auto;
+}
+
+.contacts{
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+
+
+.over{
+  overflow: hidden;
+}
+
+.over:hover{
+  overflow: scroll;
+}
+
+.h_effect:hover{
+  background-color: rgba(102, 155, 188, 0.854);
+}
+/* --bs-success:#198754 */
+
+.emojies{
+  max-height: 10vh;
+  overflow-y: scroll;
+  
+}
+
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #c1c1c1;
+}
