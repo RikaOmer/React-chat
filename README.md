@@ -1,4 +1,4 @@
-# adp2_ex2
+# BOYA - React chat 
 
 This project will be a web application named Boya, that will work as social media for sharing messages.
 
